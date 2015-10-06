@@ -15,5 +15,6 @@ int main()
             cout << "GP " << c*(c/b) << "\n";
         cin >> a >> b >> c;
     }
+    
     return 0;
 }
