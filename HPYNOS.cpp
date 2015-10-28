@@ -14,11 +14,6 @@ int breakDownValue(int n)
     return ans;
 }
 
-bool areEqual(int a, int b)
-{
-    return breakDownValue(a) == breakDownValue(b);
-}
-
 int main()
 {
     int N, start, count = 1;
